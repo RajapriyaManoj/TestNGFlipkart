@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30364" started-at="2022-07-30T06:00:09Z" finished-at="2022-07-30T06:00:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30364" started-at="2022-07-30T06:00:09Z" finished-at="2022-07-30T06:00:39Z">
+      <class name="org.testngflipkart.CodingTestNG">
+        <test-method status="PASS" signature="suiter()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="suiter" is-config="true" duration-ms="36" started-at="2022-07-30T06:00:09Z" finished-at="2022-07-30T06:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiter -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="launchBrowser" is-config="true" duration-ms="27386" started-at="2022-07-30T06:00:09Z" finished-at="2022-07-30T06:00:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logIn" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="method1" duration-ms="144" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logOut" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logIn" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="method2" duration-ms="136" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logOut" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logIn" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="method3" duration-ms="80" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logIn" is-config="true" duration-ms="1" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logOut" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="method4" duration-ms="1755" started-at="2022-07-30T06:00:37Z" finished-at="2022-07-30T06:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="logOut" is-config="true" duration-ms="1" started-at="2022-07-30T06:00:39Z" finished-at="2022-07-30T06:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="closeBrowser" is-config="true" duration-ms="761" started-at="2022-07-30T06:00:39Z" finished-at="2022-07-30T06:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="suiter2()[pri:0, instance:org.testngflipkart.CodingTestNG@4068102e]" name="suiter2" is-config="true" duration-ms="0" started-at="2022-07-30T06:00:39Z" finished-at="2022-07-30T06:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiter2 -->
+      </class> <!-- org.testngflipkart.CodingTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
